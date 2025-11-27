@@ -1,0 +1,22 @@
+{
+  "name": "daily-wage-system",
+  "version": "1.0.0",
+  "description": "Daily wage worker management system",
+  "main": "index.tsx",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "lucide-react": "^0.263.1",
+    "date-fns": "^2.30.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.0",
+    "@types/react-dom": "^18.2.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.0.0"
+  }
+}

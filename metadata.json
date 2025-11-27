@@ -1,0 +1,9 @@
+{
+  "name": "ระบบจัดการเวลาคนงานรายวัน",
+  "description": "ระบบบันทึกเวลา ถ่ายภาพ และพิกัด สำหรับคนงานรายวัน พร้อมระบบอนุมัติโดยหัวหน้างาน",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
